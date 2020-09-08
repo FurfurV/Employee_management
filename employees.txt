@@ -1,0 +1,5 @@
+12345,Minnie,Mouse,minnie.mouse@cit.ie,67589.54
+23456,Bugs,Bunny,bugs.bunny@cit.ie,67589.54
+67581,Wiley,Coyote,wiley.coyote@cit.ie,34234.56
+23346,Toothless,Dragon,toothless.dragon@cit.ie,24567.00
+95348,Rocket,Raccoon,rocket.raccoon@cit.ie,95555.00
